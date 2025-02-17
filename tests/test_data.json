@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Do you have The Shining",
+        "reference": "The Shining by Stephen King is available in Library."
+    },
+    {
+        "question": "What is the genre of Harry Potter and the Sorcerer’s Stone?",
+        "reference": "Harry Potter and the Sorcerer’s Stone is a Fiction book."
+    },
+    {
+        "question": "Do you have Tom & jerry book",
+        "reference": "No Available."
+    }
+]

@@ -1,0 +1,10 @@
+__pycache___
+.pytest_cache
+src/__pycache__
+.env
+my_rag_env
+.DS_Store
+ref
+my_rag_env
+.venv
+db
